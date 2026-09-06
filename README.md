@@ -299,14 +299,6 @@ This separation makes it possible to compare a mathematical implementation with 
 
 ---
 
-🎓 Program
-
-IEEE Elevate Program
-
-This project was completed as part of the Machine Learning Foundations Masterclass within the IEEE Elevate learning experience.
-
----
-
 💡 Key Takeaways
 
 Through this project, I developed a deeper understanding of:
